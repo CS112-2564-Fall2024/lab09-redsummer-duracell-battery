@@ -29,6 +29,7 @@ public class MainController {
         titleLabel.setText(MAIN_TITLE);
         subtitleLabel.setText(MAIN_SUBTITLE);
         descriptionLabel.setText(MAIN_DESCRIPTION);
+
         Image image = new Image(REDSUMMER_IMAGE_PATH);
         imageLabel.setImage(image);
     }
