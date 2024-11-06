@@ -18,6 +18,7 @@ public class RedSummer extends Application {
         stage.setScene(scene);
         stage.setTitle(MAIN_VIEW_TITLE);
         stage.show();
+        Hello!
     }
 
     public static void main(String[] args) {
